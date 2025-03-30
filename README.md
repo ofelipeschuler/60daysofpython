@@ -5,4 +5,4 @@
 - [X] Dia 3 - Condicional que verifica se um número é par ou ímpar
 - [X] Dia 4 - Laço de Repetição
 - [X] Dia 5 - Função que imprime o quadrado de um número
-- [ ] Dia 6 - 
+- [X] Dia 6 - Lista de Frutas
