@@ -6,3 +6,4 @@
 - [X] Dia 4 - Laço de Repetição
 - [X] Dia 5 - Função que imprime o quadrado de um número
 - [X] Dia 6 - Lista de Frutas
+- [X] Dia 7 - Dicionário de Alunos Dinâmico e Estático
