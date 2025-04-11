@@ -8,4 +8,5 @@
 - [X] Dia 6 - Lista de Frutas
 - [X] Dia 7 - Dicionário de Alunos Dinâmico e Estático
 - [X] Dia 8 - Utilizando uma função para verificar idade
-- [ ] Dia 9 - 
+- [X] Dia 9 - Contador personalizado
+- [ ] Dia 10 - 
