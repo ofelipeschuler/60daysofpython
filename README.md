@@ -9,4 +9,4 @@
 - [X] Dia 7 - Dicionário de Alunos Dinâmico e Estático
 - [X] Dia 8 - Utilizando uma função para verificar idade
 - [X] Dia 9 - Contador personalizado
-- [ ] Dia 10 - 
+- [ ] Dia 10 - Gerador de Senhas próprio
