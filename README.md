@@ -10,4 +10,5 @@
 - [X] Dia 8 - Utilizando uma função para verificar idade
 - [X] Dia 9 - Contador personalizado
 - [X] Dia 10 - Gerador de Senhas particular
-- [ ] Dia 11 - Usei a função sorted para ordenar uma lista de números
+- [X] Dia 11 - Usei a função sorted para ordenar uma lista de números
+- [X] Dia 12 - Busca linear utilizando listas
